@@ -3,10 +3,10 @@
 ### *Azure Blob Storage*
 
 ![Azure Storage](https://github.com/user-attachments/assets/6690a0fc-c296-41a9-8c75-9d0d149b3a72)
-![Azure Blob]()
+![Azure Blob](https://github.com/user-attachments/assets/3d962d3f-b199-41b3-9419-adbf686574c6)
 ### *GCP Blob Storage*
-![GCP Storage]()
-![GCP Blob]()
+![GCP Storage](https://github.com/user-attachments/assets/7698692a-334e-423a-87a8-6f12412beec1)
+![GCP Blob](https://github.com/user-attachments/assets/7807a2aa-1bce-4638-92df-dfa0de07cca8)
 # Explore Storage Features
 ### *Azure*
 Azure offers robust access control features, including Shared Access Signatures (SAS), which provide limited access to Blob storage resources without exposing the account key. Data security is a priority, with automatic encryption for data stored in Blob storage, and users can manage their own encryption keys through Azure Key Vault. Data in transit is also encrypted using HTTPS to ensure confidentiality. Azure’s data management system includes Blob storage tiers: the hot tier for frequently accessed data, the cool tier for infrequently accessed data with lower storage costs but higher retrieval costs, and the archive tier for data that is rarely accessed and intended for long-term storage.
